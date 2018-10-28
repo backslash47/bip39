@@ -1,1 +1,1 @@
-bip39 implementation by TypeScript for Node.js
+Lite implementation of BIP39 in TypeScript for Node.js

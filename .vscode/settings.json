@@ -1,9 +1,3 @@
 {
-    "cSpell.words": [
-        "dist",
-        "dtslint",
-        "promisify",
-        "wordlist"
-    ],
-    "typescript.tsdk": "node_modules/typescript/lib"
+    "editor.formatOnSave": true
 }
